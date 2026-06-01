@@ -16,4 +16,5 @@ int main()
     //membuat file dalam mode menulis
     ofstream outfile;
     
+    
 }
