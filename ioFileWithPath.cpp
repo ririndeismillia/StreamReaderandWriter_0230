@@ -43,6 +43,7 @@ int main()
     infile.open(NamaFile + ".txt", ios::in);
 
     cout << endl << ">= Membuka dan membaca file" << endl;
-    
+    //kondisi jika file ada
+    if (infile.is_open())
     
 }
